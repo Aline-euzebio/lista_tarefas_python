@@ -27,6 +27,6 @@ Observação: sem uso de banco de dados.
    venv\Scripts\activate
    ```
    ```
-   python ./main
+   python ./main.py
    ```
    
